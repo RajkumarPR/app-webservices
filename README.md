@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # webservice
 This application was generated using JHipster 4.5.6, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.5.6](https://jhipster.github.io/documentation-archive/v4.5.6).
 
@@ -153,3 +154,6 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Protractor]: https://angular.github.io/protractor/
 [Leaflet]: http://leafletjs.com/
 [DefinitelyTyped]: http://definitelytyped.org/
+=======
+# app-webservices
+>>>>>>> aee81308c20aa54bdec1cd422a3b0a4c617ecc09
